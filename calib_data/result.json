@@ -1,0 +1,240 @@
+{
+  "camera_matrix": {
+    "cx": 991.6711201956571,
+    "cy": 548.4293254764871,
+    "fx": 1322.7400184815565,
+    "fy": 1323.5816609228182,
+    "skew": 0.0
+  },
+  "checkerboard": {
+    "cols": 10,
+    "rows": 7,
+    "square_size": 1.0
+  },
+  "distortion": {
+    "k1": -0.3719476484034372,
+    "k2": 0.14375571288194422,
+    "k3": -0.0289000967071095,
+    "p1": -4.034023562042866e-05,
+    "p2": 0.0009157692883552873
+  },
+  "image_size": {
+    "height": 1080,
+    "width": 1920
+  },
+  "images": [
+    {
+      "path": ".\\captures\\20260923\\1.png",
+      "reprojection_error": 0.3594108916018667,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\10.png",
+      "reprojection_error": 0.3996068712399972,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\11.png",
+      "reprojection_error": 0.4234147092695226,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\12.png",
+      "reprojection_error": 0.5235751157735432,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\13.png",
+      "reprojection_error": 0.2906176840135163,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\14.png",
+      "reprojection_error": 0.2553104650897349,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\15.png",
+      "reprojection_error": 0.2948008964493536,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\16.png",
+      "reprojection_error": 0.374019641778703,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\17.png",
+      "reprojection_error": 0.24297002778113738,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\18.png",
+      "reprojection_error": 0.3310361214361616,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\19.png",
+      "reprojection_error": 0.24972532312329818,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\2.png",
+      "reprojection_error": 0.2769504030840146,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\20.png",
+      "reprojection_error": 0.3113134642249544,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\21.png",
+      "reprojection_error": 0.2642946922611931,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\22.png",
+      "reprojection_error": 0.21178282965263165,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\23.png",
+      "reprojection_error": 0.5019650716762089,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\24.png",
+      "reprojection_error": 0.17114685786718628,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\25.png",
+      "reprojection_error": 0.14931441499495593,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\26.png",
+      "reprojection_error": 0.1795149658528669,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\27.png",
+      "reprojection_error": 0.1550680056199653,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\28.png",
+      "reprojection_error": 0.2082564511897046,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\29.png",
+      "reprojection_error": 0.452862012307209,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\3.png",
+      "reprojection_error": 0.2654754942262966,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\30.png",
+      "reprojection_error": 0.16199048102118108,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\31.png",
+      "reprojection_error": 0.2904497882506854,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\32.png",
+      "reprojection_error": 0.2413123157692967,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\33.png",
+      "reprojection_error": 0.6688389878376122,
+      "warning": true
+    },
+    {
+      "path": ".\\captures\\20260923\\34.png",
+      "reprojection_error": 0.34312217560090347,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\35.png",
+      "reprojection_error": 0.16206705983830352,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\36.png",
+      "reprojection_error": 0.226329660447637,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\37.png",
+      "reprojection_error": 0.226244522316026,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\38.png",
+      "reprojection_error": 0.29034362337417396,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\39.png",
+      "reprojection_error": 0.5146449424617737,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\4.png",
+      "reprojection_error": 0.28932507963209675,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\40.png",
+      "reprojection_error": 0.19825474603995538,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\41.png",
+      "reprojection_error": 0.2819924490660979,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\42.png",
+      "reprojection_error": 0.27431932880994525,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\5.png",
+      "reprojection_error": 0.2949790283427608,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\6.png",
+      "reprojection_error": 0.4811483436573489,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\7.png",
+      "reprojection_error": 0.3726921255467943,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\8.png",
+      "reprojection_error": 0.242605663256356,
+      "warning": false
+    },
+    {
+      "path": ".\\captures\\20260923\\9.png",
+      "reprojection_error": 0.2916927893833289,
+      "warning": false
+    }
+  ],
+  "overall_reprojection_error_rms": 0.32395153354904277,
+  "timestamp": "2026-09-23T21:20:33",
+  "warning_threshold": 0.6479030670980855
+}
